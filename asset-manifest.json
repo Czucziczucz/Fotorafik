@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Fotorafik/static/css/main.cca80998.chunk.css",
+    "main.js": "/Fotorafik/static/js/main.b0561f1b.chunk.js",
+    "main.js.map": "/Fotorafik/static/js/main.b0561f1b.chunk.js.map",
+    "runtime-main.js": "/Fotorafik/static/js/runtime-main.3dccb404.js",
+    "runtime-main.js.map": "/Fotorafik/static/js/runtime-main.3dccb404.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/Fotorafik/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.a20b2d39.chunk.js": "/Fotorafik/static/js/2.a20b2d39.chunk.js",
+    "static/js/2.a20b2d39.chunk.js.map": "/Fotorafik/static/js/2.a20b2d39.chunk.js.map",
+    "index.html": "/Fotorafik/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/Fotorafik/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.cca80998.chunk.css.map": "/Fotorafik/static/css/main.cca80998.chunk.css.map",
+    "static/js/2.a20b2d39.chunk.js.LICENSE.txt": "/Fotorafik/static/js/2.a20b2d39.chunk.js.LICENSE.txt",
+    "static/media/Anetka 2.196987be.jpg": "/Fotorafik/static/media/Anetka 2.196987be.jpg",
+    "static/media/Anetka 3.8e830c10.jpg": "/Fotorafik/static/media/Anetka 3.8e830c10.jpg",
+    "static/media/Anetka 7.340d2723.jpg": "/Fotorafik/static/media/Anetka 7.340d2723.jpg",
+    "static/media/Architecture1.79191208.jpg": "/Fotorafik/static/media/Architecture1.79191208.jpg",
+    "static/media/Neon.57cbbb4e.jpg": "/Fotorafik/static/media/Neon.57cbbb4e.jpg",
+    "static/media/Pati.400eb53c.jpg": "/Fotorafik/static/media/Pati.400eb53c.jpg",
+    "static/media/Piaskowa_noc.074f0ddb.png": "/Fotorafik/static/media/Piaskowa_noc.074f0ddb.png",
+    "static/media/StreetWch.2b8dc7d0.jpg": "/Fotorafik/static/media/StreetWch.2b8dc7d0.jpg",
+    "static/media/StreetWch.5a598cec.png": "/Fotorafik/static/media/StreetWch.5a598cec.png",
+    "static/media/Więzienie-01.1aefb29d.jpeg": "/Fotorafik/static/media/Więzienie-01.1aefb29d.jpeg",
+    "static/media/architecturemask.aa413d2b.svg": "/Fotorafik/static/media/architecturemask.aa413d2b.svg",
+    "static/media/księżyc.56d0f99b.jpg": "/Fotorafik/static/media/księżyc.56d0f99b.jpg",
+    "static/media/księżyc.bd6f740e.png": "/Fotorafik/static/media/księżyc.bd6f740e.png",
+    "static/media/star.4aa6f7a6.svg": "/Fotorafik/static/media/star.4aa6f7a6.svg",
+    "static/media/tlo.4eb6cb0c.jpg": "/Fotorafik/static/media/tlo.4eb6cb0c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dccb404.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.a20b2d39.chunk.js",
+    "static/css/main.cca80998.chunk.css",
+    "static/js/main.b0561f1b.chunk.js"
+  ]
+}
